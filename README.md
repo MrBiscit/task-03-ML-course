@@ -22,7 +22,8 @@ You do not push to this repository. You make **your own** repository and submit 
 
 1. Download this repository as a ZIP (**Code → Download ZIP**) and unzip it into a new folder named
    `lastname_ML_task_3`.
-2. Create the virtual environment and install the pinned libraries:
+2. Create the virtual environment and install the pinned libraries. You need **Python 3.11, 3.12, 3.13 or 3.14**
+   (check with `python3 --version`; on Windows `python --version`):
 
    ```bash
    cd lastname_ML_task_3
